@@ -1,5 +1,5 @@
-@import "@fontsource/inter/variable.css";
-@import "@fontsource/source-sans-pro/variable.css";
+@import "@fontsource/inter";
+@import "@fontsource/source-sans-pro";
 
 @tailwind base;
 @tailwind components;
